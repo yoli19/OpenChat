@@ -5,7 +5,7 @@
     ```bash
     git clone https://github.com/yoli19/OpenChat.git
     cd OpenChat
-    npm install
+    npm install mongodb firebase mongoose
     ```
 
 2. Configure Firebase and MongoDB:
@@ -28,3 +28,4 @@
     ```
 
 4. Open `http://localhost:3000` in your browser.
+
